@@ -7,3 +7,6 @@
     - Benefícios da confiabilidade e previsibilidade.
     - Benefícios segurança e governança.
     - Benefícios da capacidade de gerenciamento.
+    - Iaas - Infraestrutura como Serviço.
+    - Paas - Plataforma como Serviço.
+    - Saas - Servicço como Serviço.
